@@ -19,8 +19,7 @@ public class Pattern_9 {
     	  }
     	  // print the Star
     	  int j=1;
-    	  while(j<=nst) {
-    		  
+    	  while(j<=nst) {  
     		  if(j%2==0) {
     			  System.out.print("!");
     		  }else {
